@@ -1,0 +1,8 @@
+{
+  "name": "LibreSpeed v1",
+  "description": "Aplikasi speedtest bertenaga LibreSpeed dengan antarmuka modern, tes latensi real-time, grafik dinamis, dan riwayat pengujian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

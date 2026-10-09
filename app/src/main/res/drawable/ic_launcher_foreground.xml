@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Speedometer circle and needle icon -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,24 C37.43,24 24,37.43 24,54 C24,64.21 29.1,73.22 36.93,78.61 L42.66,70.29 C37.59,66.42 34.29,60.6 34.29,54 C34.29,43.11 43.11,34.29 54,34.29 C64.89,34.29 73.71,43.11 73.71,54 C73.71,60.6 70.41,66.42 65.34,70.29 L71.07,78.61 C78.9,73.22 84,64.21 84,54 C84,37.43 70.57,24 54,24 Z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,48 C50.69,48 48,50.69 48,54 C48,56.24 49.23,58.19 51.05,59.22 L62,42 L56.78,56.95 C55.93,57.6 54.91,58 53.8,58 C50.6,58 48,55.4 48,52.2 C48,49.88 49.88,48 52.2,48 L54,48 Z" />
+</vector>
